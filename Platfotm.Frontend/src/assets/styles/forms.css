@@ -1,0 +1,43 @@
+.form {
+  width: 50%;
+  margin: 30px auto;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-group input,
+.form-group textarea,
+.form-group select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  font-family: inherit;
+}
+
+.form-group label {
+  text-align: left;
+  display: block;
+  margin: 0 0 5px 3px;
+  font-size: 1.2rem;
+}
+
+.form-buttons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.form-redirect {
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.form-redirect a {
+  text-decoration: none;
+  margin-left: 20px;
+}

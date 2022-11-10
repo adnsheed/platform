@@ -1,0 +1,38 @@
+.filter-order {
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  align-items: center;
+}
+
+.order-form {
+  width: 200px;
+}
+
+.filter-form {
+  display: flex;
+  align-items: flex-end;
+  /* border: 1px solid black; */
+}
+
+.filter-form input {
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.pagination {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.students-btns {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.items-form {
+  display: flex;
+  justify-content: space-between;
+}
